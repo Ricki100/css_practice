@@ -7,7 +7,7 @@
 	.st1{fill:#FFFFFF;}
 </style>
 <linearGradient id="XMLID_4_" gradientUnits="userSpaceOnUse" x1="47.1257" y1="282.2402" x2="533.2396" y2="282.2402">
-	<stop  offset="0" style="stop-color:#BE894A"/>
+	<stop  offset="0" style="stop-color:#fff"/>
 	<stop  offset="0.665" style="stop-color:#A0642F"/>
 	<stop  offset="1" style="stop-color:#BE894A"/>
 </linearGradient>
